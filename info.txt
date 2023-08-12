@@ -1,6 +1,9 @@
 hi this is init demo
 send demo
 reciving demo
+delete-demo
+delete demo
+deleting demos recover
  send-demo
 delete demo
 adding demo
