@@ -1,5 +1,7 @@
 hi this is init demo
 send demo
 reciving demo
+ send-demo
+delete demo
 adding demo
 added demos remove
